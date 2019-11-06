@@ -1,0 +1,158 @@
+{ 
+    "_id" : ObjectId("5da6e1b376af2c00352e9f90"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherId" : ObjectId("5d9b3196af98270031450074"), 
+    "name" : "Woher kommt der Angriff? ", 
+    "description" : "<p>Wir müssen herausfinden, von wo aus der Hacker agiert. Dadurch können wir seine Identität aufdecken und den Hacker schnappen!</p>\r\n", 
+    "availableDate" : ISODate("2019-10-16T09:24:00.000+0000"), 
+    "dueDate" : ISODate("2028-10-16T09:24:00.000+0000"), 
+    "private" : true, 
+    "archived" : [
+
+    ], 
+    "maxTeamMembers" : null, 
+    "lessonId" : null, 
+    "courseId" : null, 
+    "updatedAt" : ISODate("2019-10-16T09:24:03.514+0000"), 
+    "createdAt" : ISODate("2019-10-16T09:24:03.514+0000"), 
+    "__v" : NumberInt(0), 
+    "publicSubmissions" : false, 
+    "teamSubmissions" : false
+}
+{ 
+    "_id" : ObjectId("5da6e1cdf901a5003178b8cf"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherId" : ObjectId("5d9b3196af98270031450074"), 
+    "name" : "Was ist das Motiv? ", 
+    "description" : "<p>Hast du schon mitbekommen, was bei dir in der Schule zuletzt los war?</p>\r\n", 
+    "availableDate" : ISODate("2019-10-16T09:24:00.000+0000"), 
+    "dueDate" : ISODate("2028-10-16T09:24:00.000+0000"), 
+    "private" : true, 
+    "archived" : [
+
+    ], 
+    "maxTeamMembers" : null, 
+    "lessonId" : null, 
+    "courseId" : null, 
+    "updatedAt" : ISODate("2019-10-16T09:24:29.563+0000"), 
+    "createdAt" : ISODate("2019-10-16T09:24:29.563+0000"), 
+    "__v" : NumberInt(0), 
+    "publicSubmissions" : false, 
+    "teamSubmissions" : false
+}
+{ 
+    "_id" : ObjectId("5dac734483604a00323bb1db"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherId" : ObjectId("5d9b3196af98270031450074"), 
+    "name" : "Entschlüssle eine kodierte Nachricht", 
+    "description" : "<p>Wenn du es bist hier hin geschafft hast, dann machst du bereits sehr guten Fortschritt!</p>\r\n", 
+    "availableDate" : ISODate("2019-10-20T14:46:00.000+0000"), 
+    "dueDate" : ISODate("2028-10-20T14:46:00.000+0000"), 
+    "private" : true, 
+    "archived" : [
+
+    ], 
+    "maxTeamMembers" : null, 
+    "lessonId" : null, 
+    "courseId" : null, 
+    "updatedAt" : ISODate("2019-10-20T14:46:28.550+0000"), 
+    "createdAt" : ISODate("2019-10-20T14:46:28.550+0000"), 
+    "__v" : NumberInt(0), 
+    "publicSubmissions" : false, 
+    "teamSubmissions" : false
+}
+{ 
+    "_id" : ObjectId("5dac7b58c5b61e003201abdc"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherId" : ObjectId("5d9b3196af98270031450074"), 
+    "name" : "Lerne die HPI Schul-Cloud kennen", 
+    "description" : "<p>Setze dich mit den Funktionen der HPI Schul-Cloud auseinander</p>\r\n", 
+    "availableDate" : ISODate("2019-10-20T15:20:00.000+0000"), 
+    "dueDate" : ISODate("2028-10-20T15:20:00.000+0000"), 
+    "private" : true, 
+    "archived" : [
+
+    ], 
+    "maxTeamMembers" : null, 
+    "lessonId" : null, 
+    "courseId" : null, 
+    "updatedAt" : ISODate("2019-10-20T15:20:56.809+0000"), 
+    "createdAt" : ISODate("2019-10-20T15:20:56.808+0000"), 
+    "__v" : NumberInt(0), 
+    "publicSubmissions" : false, 
+    "teamSubmissions" : false
+}
+{ 
+    "_id" : ObjectId("5db02101c8324c0032274aad"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherId" : ObjectId("5d9b3196af98270031450074"), 
+    "name" : "Nächste Schritte", 
+    "description" : "<p><strong>Achtung! </strong></p>\r\n\r\n<p><strong>Wir bemerken gerade auffällige Aktivitäten in der Schulcloud. </strong></p>\r\n\r\n<p><strong>Geht nun zum Bereich “Neuigkeiten” um die Sache weiter zu verfolgen.</strong></p>\r\n", 
+    "availableDate" : ISODate("2019-10-23T09:44:33.741+0000"), 
+    "dueDate" : ISODate("2028-10-23T09:44:33.741+0000"), 
+    "publicSubmissions" : true, 
+    "private" : true, 
+    "archived" : [
+
+    ], 
+    "maxTeamMembers" : null, 
+    "lessonId" : null, 
+    "courseId" : null, 
+    "updatedAt" : ISODate("2019-10-23T09:44:33.769+0000"), 
+    "createdAt" : ISODate("2019-10-23T09:44:33.769+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db0c658c8324c0032274bd3"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherId" : ObjectId("5db0b6b49f75de0031cc0505"), 
+    "name" : "Look at the pictures", 
+    "description" : "", 
+    "availableDate" : ISODate("2019-10-23T21:30:00.336+0000"), 
+    "dueDate" : ISODate("2028-10-23T21:30:00.336+0000"), 
+    "archived" : [
+
+    ], 
+    "maxTeamMembers" : null, 
+    "lessonId" : ObjectId("5db0b8eebe760b003157f1f9"), 
+    "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "updatedAt" : ISODate("2019-10-23T21:30:00.356+0000"), 
+    "createdAt" : ISODate("2019-10-23T21:30:00.356+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db0cadd9f75de0031cc050f"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherId" : ObjectId("5db0b6b49f75de0031cc0505"), 
+    "name" : "Find the location ", 
+    "description" : "", 
+    "availableDate" : ISODate("2019-10-23T21:49:17.384+0000"), 
+    "dueDate" : ISODate("2028-10-23T21:49:17.384+0000"), 
+    "archived" : [
+
+    ], 
+    "maxTeamMembers" : null, 
+    "lessonId" : ObjectId("5db0b92d9f75de0031cc0509"), 
+    "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "updatedAt" : ISODate("2019-10-23T21:49:17.401+0000"), 
+    "createdAt" : ISODate("2019-10-23T21:49:17.401+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db0cbc99f75de0031cc0510"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherId" : ObjectId("5db0b6b49f75de0031cc0505"), 
+    "name" : "Research on what has been going on ", 
+    "description" : "", 
+    "availableDate" : ISODate("2019-10-23T21:53:13.961+0000"), 
+    "dueDate" : ISODate("2028-10-23T21:53:13.961+0000"), 
+    "archived" : [
+
+    ], 
+    "maxTeamMembers" : null, 
+    "lessonId" : null, 
+    "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "updatedAt" : ISODate("2019-10-23T21:53:13.982+0000"), 
+    "createdAt" : ISODate("2019-10-23T21:53:13.982+0000"), 
+    "__v" : NumberInt(0)
+}

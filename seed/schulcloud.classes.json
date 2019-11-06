@@ -1,0 +1,31 @@
+{ 
+    "_id" : ObjectId("5d9c7c1bc085e4003158158c"), 
+    "name" : "Hanne", 
+    "gradeLevel" : NumberInt(1), 
+    "year" : ObjectId("5d44380f9bcbc51ddea8820c"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherIds" : [
+        ObjectId("5d9c7c721baad200318dad07")
+    ], 
+    "updatedAt" : ISODate("2019-10-08T12:09:45.935+0000"), 
+    "createdAt" : ISODate("2019-10-08T12:07:55.353+0000"), 
+    "userIds" : [
+        ObjectId("5d9c7b8ec085e40031581587")
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db0a8cec8324c0032274bc8"), 
+    "name" : "Schul Cloud Game", 
+    "year" : ObjectId("5d44380f9bcbc51ddea8820c"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "teacherIds" : [
+
+    ], 
+    "updatedAt" : ISODate("2019-10-23T19:42:37.460+0000"), 
+    "createdAt" : ISODate("2019-10-23T19:23:58.491+0000"), 
+    "userIds" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}

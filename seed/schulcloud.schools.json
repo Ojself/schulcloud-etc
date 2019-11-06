@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5d9b313faf98270031450073"), 
+    "name" : "Game Cloud", 
+    "federalState" : ObjectId("0000b186816abba584714c53"), 
+    "fileStorageType" : "awsS3", 
+    "features" : [
+
+    ], 
+    "rssFeeds" : [
+
+    ], 
+    "customYears" : [
+
+    ], 
+    "pilot" : false, 
+    "experimental" : false, 
+    "updatedAt" : ISODate("2019-10-07T12:36:15.736+0000"), 
+    "createdAt" : ISODate("2019-10-07T12:36:15.736+0000"), 
+    "systems" : [
+
+    ], 
+    "documentBaseDirType" : "", 
+    "__v" : NumberInt(0)
+}

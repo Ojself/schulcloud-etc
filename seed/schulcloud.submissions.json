@@ -1,0 +1,100 @@
+{ 
+    "_id" : ObjectId("5d9c7e3b1baad200318dad08"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "studentId" : ObjectId("5d9b3196af98270031450074"), 
+    "homeworkId" : ObjectId("5d9c7d31c085e4003158158d"), 
+    "comment" : "<p>enterthecloud</p>\r\n", 
+    "courseGroupId" : null, 
+    "comments" : [
+
+    ], 
+    "fileIds" : [
+
+    ], 
+    "teamMembers" : [
+        ObjectId("5d9b3196af98270031450074")
+    ], 
+    "updatedAt" : ISODate("2019-10-08T12:16:59.960+0000"), 
+    "createdAt" : ISODate("2019-10-08T12:16:59.960+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dac72ca83604a00323bb1da"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "studentId" : ObjectId("5d9b3196af98270031450074"), 
+    "homeworkId" : ObjectId("5da6e1cdf901a5003178b8cf"), 
+    "comment" : "<p>Be quick ;)</p>\r\n", 
+    "courseGroupId" : null, 
+    "comments" : [
+
+    ], 
+    "fileIds" : [
+        ObjectId("5dac72b41683f1003261b3a9")
+    ], 
+    "teamMembers" : [
+        ObjectId("5d9b3196af98270031450074")
+    ], 
+    "updatedAt" : ISODate("2019-10-20T14:44:26.262+0000"), 
+    "createdAt" : ISODate("2019-10-20T14:44:26.262+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db05959c8324c0032274b3e"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "studentId" : ObjectId("5d9b3196af98270031450074"), 
+    "homeworkId" : ObjectId("5da6e1b376af2c00352e9f90"), 
+    "comment" : "<p>Woher kommt der Angriff denn? aadsadadadsdas</p>\r\n", 
+    "courseGroupId" : null, 
+    "comments" : [
+
+    ], 
+    "fileIds" : [
+
+    ], 
+    "teamMembers" : [
+        ObjectId("5d9b3196af98270031450074")
+    ], 
+    "updatedAt" : ISODate("2019-10-23T13:44:57.030+0000"), 
+    "createdAt" : ISODate("2019-10-23T13:44:57.030+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db05f1fbe760b003157f134"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "studentId" : ObjectId("5d9b3196af98270031450074"), 
+    "homeworkId" : ObjectId("5dac7b58c5b61e003201abdc"), 
+    "comment" : "<p>adadadadadadadadwasdwadswadswads</p>\r\n", 
+    "courseGroupId" : null, 
+    "comments" : [
+
+    ], 
+    "fileIds" : [
+
+    ], 
+    "teamMembers" : [
+        ObjectId("5d9b3196af98270031450074")
+    ], 
+    "updatedAt" : ISODate("2019-10-23T14:09:35.458+0000"), 
+    "createdAt" : ISODate("2019-10-23T14:09:35.458+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db064499f75de0031cc044a"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "studentId" : ObjectId("5d9b3196af98270031450074"), 
+    "homeworkId" : ObjectId("5db02101c8324c0032274aad"), 
+    "comment" : "<p>dadaadda</p>\r\n", 
+    "courseGroupId" : null, 
+    "comments" : [
+
+    ], 
+    "fileIds" : [
+
+    ], 
+    "teamMembers" : [
+        ObjectId("5d9b3196af98270031450074")
+    ], 
+    "updatedAt" : ISODate("2019-10-23T14:31:37.217+0000"), 
+    "createdAt" : ISODate("2019-10-23T14:31:37.217+0000"), 
+    "__v" : NumberInt(0)
+}

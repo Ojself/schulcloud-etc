@@ -1,0 +1,97 @@
+{ 
+    "_id" : ObjectId("5d9b3197f66b7f0032be7550"), 
+    "userId" : ObjectId("5d9b3196af98270031450074"), 
+    "__v" : NumberInt(0), 
+    "parentConsents" : [
+
+    ], 
+    "userConsent" : {
+        "form" : "digital", 
+        "privacyConsent" : true, 
+        "termsOfUseConsent" : true, 
+        "dateOfPrivacyConsent" : ISODate("2019-10-07T12:45:58.609+0000"), 
+        "dateOfTermsOfUseConsent" : ISODate("2019-10-07T12:45:58.609+0000")
+    }
+}
+{ 
+    "_id" : ObjectId("5d9c7c89a6aa3700325eb1d9"), 
+    "userId" : ObjectId("5d9c7c721baad200318dad07"), 
+    "parentConsents" : [
+
+    ], 
+    "userConsent" : {
+        "form" : "digital", 
+        "privacyConsent" : true, 
+        "termsOfUseConsent" : true, 
+        "dateOfPrivacyConsent" : ISODate("2019-10-08T12:09:45.842+0000"), 
+        "dateOfTermsOfUseConsent" : ISODate("2019-10-08T12:09:45.842+0000")
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db0a033c8324c0032274ba6"), 
+    "userId" : ObjectId("5db0a014be760b003157f191"), 
+    "parentConsents" : [
+
+    ], 
+    "userConsent" : {
+        "form" : "analog", 
+        "privacyConsent" : true, 
+        "termsOfUseConsent" : true, 
+        "dateOfPrivacyConsent" : ISODate("2019-10-23T18:49:21.132+0000"), 
+        "dateOfTermsOfUseConsent" : ISODate("2019-10-23T18:49:21.132+0000")
+    }, 
+    "__v" : null
+}
+{ 
+    "_id" : ObjectId("5db0a0e19f75de0031cc04ab"), 
+    "userId" : ObjectId("5db0a0d1c8324c0032274ba8"), 
+    "parentConsents" : [
+
+    ], 
+    "userConsent" : {
+        "form" : "analog", 
+        "privacyConsent" : true, 
+        "termsOfUseConsent" : true, 
+        "dateOfPrivacyConsent" : ISODate("2019-10-23T19:42:37.372+0000"), 
+        "dateOfTermsOfUseConsent" : ISODate("2019-10-23T19:42:37.372+0000")
+    }, 
+    "__v" : null
+}
+{ 
+    "_id" : ObjectId("5db0b71f9f75de0031cc0507"), 
+    "userId" : ObjectId("5db0b6b49f75de0031cc0505"), 
+    "parentConsents" : [
+
+    ], 
+    "userConsent" : {
+        "form" : "digital", 
+        "privacyConsent" : true, 
+        "termsOfUseConsent" : true, 
+        "dateOfPrivacyConsent" : ISODate("2019-10-23T20:25:03.626+0000"), 
+        "dateOfTermsOfUseConsent" : ISODate("2019-10-23T20:25:03.626+0000")
+    }, 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db95a9d981a7f003407dcbc"), 
+    "userId" : ObjectId("5db95a5928e30e003251e96d"), 
+    "parentConsents" : [
+        {
+            "form" : "analog", 
+            "privacyConsent" : true, 
+            "termsOfUseConsent" : true, 
+            "dateOfPrivacyConsent" : ISODate("2019-10-30T09:40:45.219+0000"), 
+            "dateOfTermsOfUseConsent" : ISODate("2019-10-30T09:40:45.219+0000"), 
+            "_id" : ObjectId("5db95a9d981a7f003407dcbd")
+        }
+    ], 
+    "userConsent" : {
+        "form" : "analog", 
+        "privacyConsent" : true, 
+        "termsOfUseConsent" : true, 
+        "dateOfPrivacyConsent" : ISODate("2019-10-30T09:40:45.219+0000"), 
+        "dateOfTermsOfUseConsent" : ISODate("2019-10-30T09:40:45.219+0000")
+    }, 
+    "__v" : NumberInt(0)
+}

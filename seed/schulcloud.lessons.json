@@ -1,0 +1,92 @@
+{ 
+    "_id" : ObjectId("5db0b8eebe760b003157f1f9"), 
+    "updatedAt" : ISODate("2019-10-23T21:39:39.541+0000"), 
+    "createdAt" : ISODate("2019-10-23T20:32:46.317+0000"), 
+    "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "name" : "Identifying the hacker", 
+    "time" : ISODate("2019-10-22T22:00:00.000+0000"), 
+    "date" : ISODate("1999-12-31T23:00:00.000+0000"), 
+    "position" : NumberInt(1), 
+    "isCopyFrom" : null, 
+    "hidden" : true, 
+    "materialIds" : [
+
+    ], 
+    "contents" : [
+        {
+            "_id" : ObjectId("5db0c89bbe760b003157f207"), 
+            "content" : {
+                "text" : "<p><img alt=\"1\" src=\"/files/file?file=5db0c414be760b003157f1fd&name=2.jpg\" style=\"height:180px;width:270px;\" /></p>\r\n\r\n<p><img alt=\"3\" src=\"/files/file?file=5db0c416be760b003157f1fe&name=3.jpg\" style=\"height:180px;width:270px;\" /></p>\r\n\r\n<p><img alt=\"4\" src=\"/files/file?file=5db0c416be760b003157f1ff&name=4.jpg\" style=\"height:180px;width:270px;\" /></p>\r\n\r\n<p><img alt=\"5\" src=\"/files/file?file=5db0c416be760b003157f200&name=5.jpg\" style=\"height:180px;width:270px;\" /></p>\r\n\r\n<p>We have achieved to hack the hacker's webcam. Can you guess who that person can be? Can you hack the hacker?</p>\r\n"
+            }, 
+            "user" : ObjectId("5db0b6b49f75de0031cc0505"), 
+            "component" : "text", 
+            "hidden" : false, 
+            "title" : "Who could that be?"
+        }, 
+        {
+            "_id" : ObjectId("5db0c89bbe760b003157f206"), 
+            "user" : ObjectId("5db0b6b49f75de0031cc0505"), 
+            "component" : "resources", 
+            "hidden" : false, 
+            "title" : ""
+        }, 
+        {
+            "_id" : ObjectId("5db0c89bbe760b003157f205"), 
+            "content" : {
+                "text" : ""
+            }, 
+            "user" : ObjectId("5db0b6b49f75de0031cc0505"), 
+            "component" : "text", 
+            "hidden" : false, 
+            "title" : ""
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db0b92d9f75de0031cc0509"), 
+    "updatedAt" : ISODate("2019-10-23T21:51:33.499+0000"), 
+    "createdAt" : ISODate("2019-10-23T20:33:49.508+0000"), 
+    "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "name" : "Locating the hacker", 
+    "time" : ISODate("2019-10-22T22:00:00.000+0000"), 
+    "date" : ISODate("1999-12-31T23:00:00.000+0000"), 
+    "position" : NumberInt(2), 
+    "isCopyFrom" : null, 
+    "hidden" : true, 
+    "materialIds" : [
+
+    ], 
+    "contents" : [
+        {
+            "_id" : ObjectId("5db0cb65be760b003157f209"), 
+            "content" : {
+                "materialId" : "xcdyu8qk"
+            }, 
+            "user" : ObjectId("5db0b6b49f75de0031cc0505"), 
+            "component" : "geoGebra", 
+            "hidden" : false, 
+            "title" : "It is possible to locate the source of the attack!"
+        }
+    ], 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5db0ba0ebe760b003157f1fa"), 
+    "updatedAt" : ISODate("2019-10-23T21:07:58.906+0000"), 
+    "createdAt" : ISODate("2019-10-23T20:37:34.661+0000"), 
+    "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "name" : "Deciphering messages", 
+    "time" : ISODate("2019-10-22T22:00:00.000+0000"), 
+    "date" : ISODate("1999-12-31T23:00:00.000+0000"), 
+    "position" : NumberInt(0), 
+    "isCopyFrom" : null, 
+    "hidden" : true, 
+    "materialIds" : [
+
+    ], 
+    "contents" : [
+
+    ], 
+    "__v" : NumberInt(0)
+}

@@ -1,0 +1,150 @@
+{ 
+    "_id" : ObjectId("5d9c7c9ea6aa3700325eb1db"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "name" : "EnterTheCloud", 
+    "startDate" : ISODate("2019-07-31T22:00:00.000+0000"), 
+    "untilDate" : ISODate("2020-07-30T22:00:00.000+0000"), 
+    "isCopyFrom" : null, 
+    "times" : [
+
+    ], 
+    "color" : "#ACACAC", 
+    "ltiToolIds" : [
+
+    ], 
+    "substitutionIds" : [
+        ObjectId("5d9c7c721baad200318dad07")
+    ], 
+    "teacherIds" : [
+        ObjectId("5d9c7c721baad200318dad07")
+    ], 
+    "classIds" : [
+        ObjectId("5d9c7c1bc085e4003158158c")
+    ], 
+    "updatedAt" : ISODate("2019-10-08T12:10:42.938+0000"), 
+    "createdAt" : ISODate("2019-10-08T12:10:06.250+0000"), 
+    "userIds" : [
+        ObjectId("5d9c7b8ec085e40031581587")
+    ], 
+    "__v" : NumberInt(0), 
+    "description" : ""
+}
+{ 
+    "_id" : ObjectId("5db0527ec8324c0032274b08"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "name" : "Cloudy", 
+    "startDate" : ISODate("2019-07-31T22:00:00.000+0000"), 
+    "untilDate" : ISODate("2025-07-30T22:00:00.000+0000"), 
+    "isCopyFrom" : null, 
+    "times" : [
+
+    ], 
+    "color" : "#FFC400", 
+    "ltiToolIds" : [
+
+    ], 
+    "substitutionIds" : [
+
+    ], 
+    "teacherIds" : [
+        ObjectId("5d9c7c721baad200318dad07")
+    ], 
+    "classIds" : [
+        ObjectId("5d9c7c1bc085e4003158158c")
+    ], 
+    "updatedAt" : ISODate("2019-10-23T13:21:44.889+0000"), 
+    "createdAt" : ISODate("2019-10-23T13:15:42.515+0000"), 
+    "userIds" : [
+        ObjectId("5d9c7b8ec085e40031581587")
+    ], 
+    "__v" : NumberInt(0), 
+    "description" : "Event 7"
+}
+{ 
+    "_id" : ObjectId("5db09cddc8324c0032274ba3"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "name" : "Stopping hacker attacks 101", 
+    "startDate" : ISODate("2019-07-31T22:00:00.000+0000"), 
+    "untilDate" : ISODate("2020-07-30T22:00:00.000+0000"), 
+    "isCopyFrom" : null, 
+    "times" : [
+        {
+            "_id" : ObjectId("5db0a9559f75de0031cc04ea"), 
+            "room" : "", 
+            "duration" : NumberInt(120000), 
+            "startTime" : NumberInt(28800000), 
+            "weekday" : NumberInt(0)
+        }, 
+        {
+            "_id" : ObjectId("5db0a9559f75de0031cc04e9"), 
+            "room" : "", 
+            "duration" : NumberInt(120000), 
+            "startTime" : NumberInt(28800000), 
+            "weekday" : NumberInt(2)
+        }
+    ], 
+    "color" : "#1DE9B6", 
+    "ltiToolIds" : [
+
+    ], 
+    "substitutionIds" : [
+        ObjectId("5db0a014be760b003157f191")
+    ], 
+    "teacherIds" : [
+        ObjectId("5d9c7c721baad200318dad07")
+    ], 
+    "classIds" : [
+
+    ], 
+    "updatedAt" : ISODate("2019-10-23T19:26:13.346+0000"), 
+    "createdAt" : ISODate("2019-10-23T18:33:01.492+0000"), 
+    "userIds" : [
+
+    ], 
+    "__v" : NumberInt(0), 
+    "description" : "Ever wondered how to prevent and stop a hacker? It could be anyone!"
+}
+{ 
+    "_id" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "name" : "Stopping hacking attacks!", 
+    "startDate" : ISODate("2019-07-31T22:00:00.000+0000"), 
+    "untilDate" : ISODate("2020-07-30T22:00:00.000+0000"), 
+    "isCopyFrom" : null, 
+    "times" : [
+        {
+            "_id" : ObjectId("5db5b285aa7d830033ae44d0"), 
+            "room" : "", 
+            "duration" : NumberInt(3600000), 
+            "startTime" : NumberInt(36000000), 
+            "weekday" : NumberInt(0)
+        }, 
+        {
+            "_id" : ObjectId("5db5b285aa7d830033ae44cf"), 
+            "room" : "", 
+            "duration" : NumberInt(3600000), 
+            "startTime" : NumberInt(28800000), 
+            "weekday" : NumberInt(2)
+        }
+    ], 
+    "color" : "#1DE9B6", 
+    "ltiToolIds" : [
+
+    ], 
+    "substitutionIds" : [
+
+    ], 
+    "teacherIds" : [
+        ObjectId("5db0b6b49f75de0031cc0505")
+    ], 
+    "classIds" : [
+
+    ], 
+    "updatedAt" : ISODate("2019-10-27T15:06:45.806+0000"), 
+    "createdAt" : ISODate("2019-10-23T20:27:10.900+0000"), 
+    "userIds" : [
+
+    ], 
+    "__v" : NumberInt(0), 
+    "description" : ""
+}

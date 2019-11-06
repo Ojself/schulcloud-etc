@@ -1,0 +1,39 @@
+{ 
+    "_id" : ObjectId("5da5dd3db292b00032f78af5"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "title" : "\"Lipotisch tsi, saw irw sense, eie iwr neblne, wei riw momkniireneu\"", 
+    "content" : "<p>*</p>\r\n", 
+    "creatorId" : ObjectId("5d9b3196af98270031450074"), 
+    "updaterId" : ObjectId("5d9b3196af98270031450074"), 
+    "source" : "internal", 
+    "createdAt" : ISODate("2019-10-15T14:52:45.703+0000"), 
+    "displayAt" : ISODate("2019-10-15T14:52:00.000+0000"), 
+    "__v" : NumberInt(0), 
+    "updatedAt" : ISODate("2019-10-16T09:49:35.738+0000")
+}
+{ 
+    "_id" : ObjectId("5db0d47ec8324c0032274bdc"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "title" : "Wtllroeve Shsneiwei üreb Kheacr-Vhrlateen nfgdeune", 
+    "content" : "<p>Hacker-Angriffe nehmen immer mehr zu. Das zuständige Bundesamt für Datensicherheit (BSI) der deutschen Regierung hat deshalb eine Sondereinheit ins Leben gerufen, welche sich auf die Identifizierung von Hackern spezialisiert hat. Dr. Brunk, der Leiter der Einheit, konnte bereits einige wertvolle Hinweise über das Hacker-Verhalten weitergeben: „Viele Hacker verschlüsseln ihre Angriffe mit sogenannten Super-Passwörtern. <strong>Nur wenn es gelingt, das Super-Passwort eines Hackers zu entschlüsseln, kann man einen Hacker-Angriff vollständig abwehren.“</strong> Dabei ist Dr. Brunk ein Hacker besonders aufgefallen, der in letzter Zeit mehrfach Angriffe auf digitale Schulplattformen unternommen hat: „Bei diesem Hacker ergaben unsere Recherchen, dass er mit sehr großer Wahrscheinlichkeit ein Super-Passwort benutzt, welches seinen Lieblingsgegenstand beschreibt. <strong>Sobald man herausfinden kann, was der Lieblingsgegenstand des Hackers ist und diesen Begriff an unsere Sondereinheit weiterleitet, kann der Angriff überwunden werden.“ </strong></p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n", 
+    "creatorId" : ObjectId("5d9b3196af98270031450074"), 
+    "updaterId" : ObjectId("5db0b6b49f75de0031cc0505"), 
+    "source" : "internal", 
+    "createdAt" : ISODate("2019-10-23T22:30:22.010+0000"), 
+    "displayAt" : ISODate("2019-10-23T22:30:00.000+0000"), 
+    "__v" : NumberInt(0), 
+    "updatedAt" : ISODate("2019-10-30T12:27:38.791+0000")
+}
+{ 
+    "_id" : ObjectId("5db0d7b6c8324c0032274bdd"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "title" : "Aws irw ggeen ned Kmaliandlwe nut kneönn", 
+    "content" : "<p>Die Klimakrise lässt sich nicht mehr verdrängen - und wir sind mittendrin. Vorschläge für eine bessere Zukunft für unseren Planeten kommen aus der „Werkstatt Demokratie“. Doch wie können wir das Klima effektiv schützen? Was können wir als einzelne Personen tun, um den Klimawandel entgegenzuwirken? Hier ein paar konkrete Vorschläge:</p>\r\n\r\n<ol>\r\n\t<li>Solaranlagen auf alle Dächer.</li>\r\n\t<li>Weniger Fleisch essen. Dafür saisonal, regional und bio.</li>\r\n\t<li>Bäume und eigenes Gemüse und Obst pflanzen</li>\r\n\t<li>Weniger fliegen und das Auto abschaffen</li>\r\n\t<li>Besser dämmen und weniger heizen</li>\r\n\t<li>Kleinere, dafür aber flexiblere Wohnungen</li>\r\n\t<li>Second Hand statt neue Kleidung</li>\r\n</ol>\r\n\r\n<p>Ebitsch & Kohrs (2019), Süddeutsche Zeitung</p>\r\n", 
+    "creatorId" : ObjectId("5d9b3196af98270031450074"), 
+    "updaterId" : ObjectId("5db0b6b49f75de0031cc0505"), 
+    "source" : "internal", 
+    "createdAt" : ISODate("2019-10-23T22:44:06.267+0000"), 
+    "displayAt" : ISODate("2019-10-23T22:44:00.000+0000"), 
+    "__v" : NumberInt(0), 
+    "updatedAt" : ISODate("2019-10-30T12:26:46.158+0000")
+}

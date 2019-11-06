@@ -1,0 +1,33 @@
+{ 
+    "_id" : ObjectId("5d9b3197f66b7f0032be754f"), 
+    "updatedAt" : ISODate("2019-10-30T15:40:10.749+0000"), 
+    "createdAt" : ISODate("2019-10-07T12:37:43.976+0000"), 
+    "username" : "test-admin@game-cloud-schule.org", 
+    "password" : "$2a$13$VU/TN.fsMrQuj6yPjXxrdOaCRFSNBMmLvJKM4kjvkZMtCXXqnx/Sa", 
+    "userId" : ObjectId("5d9b3196af98270031450074"), 
+    "activated" : true, 
+    "__v" : NumberInt(0), 
+    "lasttriedFailedLogin" : ISODate("1970-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5db0b71f9f75de0031cc0506"), 
+    "updatedAt" : ISODate("2019-10-30T14:46:24.520+0000"), 
+    "createdAt" : ISODate("2019-10-23T20:25:03.623+0000"), 
+    "username" : "angelagaleanocolonia@gmail.com", 
+    "password" : "$2a$13$Ua84I1YOek6PW9tghY15Tet8Y8E1OJqkQ8Q8rC598f6IZNlc6v5S2", 
+    "userId" : ObjectId("5db0b6b49f75de0031cc0505"), 
+    "activated" : true, 
+    "__v" : NumberInt(0), 
+    "lasttriedFailedLogin" : ISODate("1970-01-01T00:00:00.000+0000")
+}
+{ 
+    "_id" : ObjectId("5db95a9d981a7f003407dcbf"), 
+    "updatedAt" : ISODate("2019-10-30T09:44:21.834+0000"), 
+    "createdAt" : ISODate("2019-10-30T09:40:45.422+0000"), 
+    "userId" : ObjectId("5db95a5928e30e003251e96d"), 
+    "password" : "$2a$10$rQ22y7ZjIHaRa0wJWDNHB.Hwatuph8zhnT1pf.x7Od07qOLvoCsR.", 
+    "username" : "sam.schmidt@student.de", 
+    "activated" : true, 
+    "lasttriedFailedLogin" : ISODate("1970-01-01T00:00:00.000+0000"), 
+    "__v" : NumberInt(0)
+}
