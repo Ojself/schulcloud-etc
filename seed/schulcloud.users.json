@@ -23,99 +23,6 @@
     }
 }
 { 
-    "_id" : ObjectId("5d9c7b8ec085e40031581587"), 
-    "updatedAt" : ISODate("2019-10-08T12:06:02.169+0000"), 
-    "createdAt" : ISODate("2019-10-08T12:05:34.303+0000"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
-    "firstName" : "Hanne", 
-    "lastName" : "Hanne", 
-    "email" : "hanne@hanne.de", 
-    "birthday" : ISODate("2004-07-19T22:00:00.000+0000"), 
-    "discoverable" : false, 
-    "parents" : [
-
-    ], 
-    "children" : [
-
-    ], 
-    "roles" : [
-        ObjectId("0000d186816abba584714c99")
-    ], 
-    "__v" : NumberInt(0)
-}
-{ 
-    "_id" : ObjectId("5d9c7c721baad200318dad07"), 
-    "updatedAt" : ISODate("2019-10-08T12:11:06.581+0000"), 
-    "createdAt" : ISODate("2019-10-08T12:09:22.232+0000"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
-    "firstName" : "Hannelehrer", 
-    "lastName" : "Hannelehrer", 
-    "email" : "hannelehrer@hannelehrer.de", 
-    "importHash" : "O2aO08OX35Mt0pql2LWBAlmrhYLruobYmPb7PqoMFuTCwL68FXQYItex7c8e", 
-    "discoverable" : false, 
-    "parents" : [
-
-    ], 
-    "children" : [
-
-    ], 
-    "roles" : [
-        ObjectId("0000d186816abba584714c98")
-    ], 
-    "__v" : NumberInt(0), 
-    "preferences" : {
-        "firstLogin" : true
-    }
-}
-{ 
-    "_id" : ObjectId("5db0a014be760b003157f191"), 
-    "updatedAt" : ISODate("2019-10-23T18:49:21.167+0000"), 
-    "createdAt" : ISODate("2019-10-23T18:46:44.127+0000"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
-    "firstName" : "Max", 
-    "lastName" : "Maximo", 
-    "email" : "max.maximo@outlook.com", 
-    "importHash" : "W2aW08WenazwCMACNbtfYbsNr3XFOhMilSq9VQJCONb7pVLJzfzyLUt8JxX2", 
-    "discoverable" : false, 
-    "parents" : [
-
-    ], 
-    "children" : [
-
-    ], 
-    "roles" : [
-        ObjectId("0000d186816abba584714c98")
-    ], 
-    "__v" : NumberInt(0), 
-    "preferences" : {
-        "firstLogin" : true
-    }
-}
-{ 
-    "_id" : ObjectId("5db0a0d1c8324c0032274ba8"), 
-    "updatedAt" : ISODate("2019-10-23T19:42:37.413+0000"), 
-    "createdAt" : ISODate("2019-10-23T18:49:53.840+0000"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
-    "firstName" : "Thomas", 
-    "lastName" : "Anderson", 
-    "email" : "ag.galeano87@gmail.com", 
-    "importHash" : "T2aT08T1foSBLPKiBKzyFLLX52LEegjNAESTidj5RnH5hzHjuNXIZVlT6zv2", 
-    "discoverable" : false, 
-    "parents" : [
-
-    ], 
-    "children" : [
-
-    ], 
-    "roles" : [
-        ObjectId("0000d186816abba584714c98")
-    ], 
-    "__v" : NumberInt(0), 
-    "preferences" : {
-        "firstLogin" : true
-    }
-}
-{ 
     "_id" : ObjectId("5db0b6b49f75de0031cc0505"), 
     "__v" : NumberInt(0), 
     "createdAt" : ISODate("2019-10-23T20:23:16.090+0000"), 
@@ -142,13 +49,13 @@
 }
 { 
     "_id" : ObjectId("5db95a5928e30e003251e96d"), 
-    "updatedAt" : ISODate("2019-10-30T09:44:12.677+0000"), 
+    "updatedAt" : ISODate("2019-10-30T20:09:24.073+0000"), 
     "createdAt" : ISODate("2019-10-30T09:39:37.128+0000"), 
     "schoolId" : ObjectId("5d9b313faf98270031450073"), 
-    "firstName" : "Sam", 
-    "lastName" : "Schmidt ", 
-    "email" : "sam.schmidt@student.de", 
-    "birthday" : ISODate("1995-09-30T23:00:00.000+0000"), 
+    "firstName" : "Student", 
+    "lastName" : "Eins", 
+    "email" : "student@student.de", 
+    "birthday" : ISODate("1995-10-01T00:00:00.000+0000"), 
     "discoverable" : false, 
     "parents" : [
 
@@ -163,5 +70,78 @@
     "preferences" : {
         "firstLogin" : true, 
         "releaseDate" : "2019-08-07T12:12:59.000Z"
+    }
+}
+{ 
+    "_id" : ObjectId("5db9eb472f37a70027bcbac8"), 
+    "updatedAt" : ISODate("2019-10-30T19:59:13.196+0000"), 
+    "createdAt" : ISODate("2019-10-30T19:57:59.537+0000"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "firstName" : "Max", 
+    "lastName" : "Maximo", 
+    "email" : "max@maximo.de", 
+    "importHash" : "B2aB08BPrw4vjohg47w9fScrN6arBtgCGoW1u8yYG375rkC783GaSOTBs1G6", 
+    "discoverable" : false, 
+    "parents" : [
+
+    ], 
+    "children" : [
+
+    ], 
+    "roles" : [
+        ObjectId("0000d186816abba584714c98")
+    ], 
+    "__v" : NumberInt(0), 
+    "preferences" : {
+        "firstLogin" : true
+    }
+}
+{ 
+    "_id" : ObjectId("5db9ed302f37a70027bcbace"), 
+    "preferences" : {
+        "firstLogin" : true
+    }, 
+    "__v" : NumberInt(0), 
+    "createdAt" : ISODate("2019-10-30T20:06:08.292+0000"), 
+    "updatedAt" : ISODate("2019-10-30T20:06:46.479+0000"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "email" : "onboarding@mint-ec.de", 
+    "lastName" : "Mint", 
+    "firstName" : "Onboarding", 
+    "discoverable" : false, 
+    "parents" : [
+
+    ], 
+    "children" : [
+
+    ], 
+    "roles" : [
+        ObjectId("0000d186816abba584714c98")
+    ]
+}
+{ 
+    "_id" : ObjectId("5dbb63292f37a70027bcbbad"), 
+    "__v" : NumberInt(0), 
+    "createdAt" : ISODate("2019-10-31T22:41:45.439+0000"), 
+    "updatedAt" : ISODate("2019-11-01T13:25:05.806+0000"), 
+    "birthday" : ISODate("1997-12-22T23:00:00.000+0000"), 
+    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "email" : "cloud.test.19.19@gmail.com", 
+    "lastName" : "Dummy", 
+    "firstName" : "Alex", 
+    "discoverable" : false, 
+    "parents" : [
+
+    ], 
+    "children" : [
+
+    ], 
+    "roles" : [
+        ObjectId("0000d186816abba584714c99")
+    ], 
+    "preferences" : {
+        "firstLogin" : true, 
+        "releaseDate" : "2019-08-07T12:12:59.000Z", 
+        "enterthecloud" : true
     }
 }

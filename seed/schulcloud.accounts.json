@@ -1,6 +1,6 @@
 { 
     "_id" : ObjectId("5d9b3197f66b7f0032be754f"), 
-    "updatedAt" : ISODate("2019-10-30T15:40:10.749+0000"), 
+    "updatedAt" : ISODate("2019-11-06T10:06:57.328+0000"), 
     "createdAt" : ISODate("2019-10-07T12:37:43.976+0000"), 
     "username" : "test-admin@game-cloud-schule.org", 
     "password" : "$2a$13$VU/TN.fsMrQuj6yPjXxrdOaCRFSNBMmLvJKM4kjvkZMtCXXqnx/Sa", 
@@ -11,7 +11,7 @@
 }
 { 
     "_id" : ObjectId("5db0b71f9f75de0031cc0506"), 
-    "updatedAt" : ISODate("2019-10-30T14:46:24.520+0000"), 
+    "updatedAt" : ISODate("2019-11-06T10:32:40.951+0000"), 
     "createdAt" : ISODate("2019-10-23T20:25:03.623+0000"), 
     "username" : "angelagaleanocolonia@gmail.com", 
     "password" : "$2a$13$Ua84I1YOek6PW9tghY15Tet8Y8E1OJqkQ8Q8rC598f6IZNlc6v5S2", 
@@ -22,11 +22,33 @@
 }
 { 
     "_id" : ObjectId("5db95a9d981a7f003407dcbf"), 
-    "updatedAt" : ISODate("2019-10-30T09:44:21.834+0000"), 
+    "updatedAt" : ISODate("2019-11-05T18:56:07.667+0000"), 
     "createdAt" : ISODate("2019-10-30T09:40:45.422+0000"), 
     "userId" : ObjectId("5db95a5928e30e003251e96d"), 
-    "password" : "$2a$10$rQ22y7ZjIHaRa0wJWDNHB.Hwatuph8zhnT1pf.x7Od07qOLvoCsR.", 
-    "username" : "sam.schmidt@student.de", 
+    "password" : "$2a$10$KEnG6lSR6.pgT8nYiPmF/.KQHwYaErgHlfpLS72Z3.ufot1iuSuLm", 
+    "username" : "student@student.de", 
+    "activated" : true, 
+    "lasttriedFailedLogin" : ISODate("1970-01-01T00:00:00.000+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dba90382f37a70027bcbae1"), 
+    "updatedAt" : ISODate("2019-10-31T07:41:44.578+0000"), 
+    "createdAt" : ISODate("2019-10-31T07:41:44.578+0000"), 
+    "username" : "onboarding@mint-ec.de", 
+    "password" : "$2a$10$7KySCVtO9dKwSQovmxZ/7eTTfHPXNjOdWQqXPnIj7MaVY9omAMpP2", 
+    "userId" : ObjectId("5db9ed302f37a70027bcbace"), 
+    "activated" : true, 
+    "lasttriedFailedLogin" : ISODate("1970-01-01T00:00:00.000+0000"), 
+    "__v" : NumberInt(0)
+}
+{ 
+    "_id" : ObjectId("5dbb636b7cb9850028c8a21e"), 
+    "updatedAt" : ISODate("2019-11-05T18:54:28.854+0000"), 
+    "createdAt" : ISODate("2019-10-31T22:42:51.767+0000"), 
+    "username" : "cloud.test.19.19@gmail.com", 
+    "password" : "$2a$10$0USuKioCCZ6oawPMC.Nj8.rb0BOWXCdF2qoE.e3or2WmhsiM7eSLq", 
+    "userId" : ObjectId("5dbb63292f37a70027bcbbad"), 
     "activated" : true, 
     "lasttriedFailedLogin" : ISODate("1970-01-01T00:00:00.000+0000"), 
     "__v" : NumberInt(0)
