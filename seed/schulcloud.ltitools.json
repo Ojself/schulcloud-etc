@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("5dc2aedc197966002de9eb45"), 
+    "name" : "GeoGebra", 
+    "url" : "/vendor/geoGebra/GeoGebraExam.html", 
+    "key" : "none", 
+    "secret" : "none", 
+    "lti_message_type" : "none", 
+    "lti_version" : "none", 
+    "logo_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Geogebra.svg/480px-Geogebra.svg.png", 
+    "resource_link_id" : "0", 
+    "isTemplate" : false, 
+    "isLocal" : true, 
+    "__v" : NumberInt(0), 
+    "originTool" : ObjectId("0000bb5664582c35df3bc220"), 
+    "updatedAt" : ISODate("2016-12-09T14:09:41.008+0000"), 
+    "createdAt" : ISODate("2016-12-09T14:09:41.008+0000"), 
+    "customs" : [
+
+    ], 
+    "privacy_permission" : "anonymous", 
+    "roles" : [
+
+    ]
+}
