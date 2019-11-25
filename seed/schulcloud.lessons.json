@@ -1,92 +1,93 @@
 { 
     "_id" : ObjectId("5db0b8eebe760b003157f1f9"), 
-    "updatedAt" : ISODate("2019-10-23T21:39:39.541+0000"), 
+    "updatedAt" : ISODate("2019-11-20T15:03:28.925+0000"), 
     "createdAt" : ISODate("2019-10-23T20:32:46.317+0000"), 
     "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "name" : "Identifying the hacker", 
-    "time" : ISODate("2019-10-22T22:00:00.000+0000"), 
+    "name" : "Webcam Bilder", 
+    "time" : ISODate("2019-11-19T23:00:00.000+0000"), 
     "date" : ISODate("1999-12-31T23:00:00.000+0000"), 
-    "position" : NumberInt(1), 
+    "position" : 1.0, 
     "isCopyFrom" : null, 
-    "hidden" : true, 
+    "hidden" : false, 
     "materialIds" : [
 
     ], 
     "contents" : [
         {
-            "_id" : ObjectId("5db0c89bbe760b003157f207"), 
+            "_id" : ObjectId("5dd555c080c434002de2b05f"), 
             "content" : {
-                "text" : "<p><img alt=\"1\" src=\"/files/file?file=5db0c414be760b003157f1fd&name=2.jpg\" style=\"height:180px;width:270px;\" /></p>\r\n\r\n<p><img alt=\"3\" src=\"/files/file?file=5db0c416be760b003157f1fe&name=3.jpg\" style=\"height:180px;width:270px;\" /></p>\r\n\r\n<p><img alt=\"4\" src=\"/files/file?file=5db0c416be760b003157f1ff&name=4.jpg\" style=\"height:180px;width:270px;\" /></p>\r\n\r\n<p><img alt=\"5\" src=\"/files/file?file=5db0c416be760b003157f200&name=5.jpg\" style=\"height:180px;width:270px;\" /></p>\r\n\r\n<p>We have achieved to hack the hacker's webcam. Can you guess who that person can be? Can you hack the hacker?</p>\r\n"
+                "text" : "<p>Ich konnte Zugriff auf die Webcam des Hackers gewinnen. Wenn wir das Master-Passwort herausfinden, können wir seinen Angriff abwehren. </p>\r\n\r\n<p><br />\r\nKannst du rausfinden welcher Gegenstand der wichtigste für den Angreifer unserer Cloud ist?</p>\r\n\r\n<p>Tipp: Man sieht den gesuchten Gegenstand auf jedem der Bilder!</p>\r\n\r\n<p> </p>\r\n\r\n<p><img alt src=\"/files/file?file=5dcbff7958377f0038902787&name=webcam1.jpg\" style=\"height:450px;width:600px;\" /></p>\r\n\r\n<p> </p>\r\n\r\n<p><img alt src=\"/files/file?file=5dcbffbd81b60a0036e65ce0&name=webcam2.jpg\" style=\"height:450px;width:600px;\" /></p>\r\n\r\n<p> </p>\r\n\r\n<p><img alt src=\"/files/file?file=5dcbffbbc6bb140038cd2311&name=webcam3.jpg\" style=\"height:450px;width:600px;\" /></p>\r\n\r\n<p> </p>\r\n\r\n<p><img alt src=\"/files/file?file=5dcbffb281b60a0036e65cdf&name=webcam4.jpg\" style=\"height:450px;width:600px;\" /></p>\r\n\r\n<p> </p>\r\n\r\n<p><img alt src=\"/files/file?file=5dcbffc3c6bb140038cd2313&name=webcam5.jpg\" style=\"height:450px;width:600px;\" /></p>\r\n\r\n<p>Und, hast du das Passwort herausgefunden? Trage es unten in das Fenster ein!</p>\r\n"
             }, 
             "user" : ObjectId("5db0b6b49f75de0031cc0505"), 
             "component" : "text", 
-            "hidden" : false, 
-            "title" : "Who could that be?"
-        }, 
-        {
-            "_id" : ObjectId("5db0c89bbe760b003157f206"), 
-            "user" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "component" : "resources", 
             "hidden" : false, 
             "title" : ""
         }, 
         {
-            "_id" : ObjectId("5db0c89bbe760b003157f205"), 
-            "content" : {
-                "text" : ""
-            }, 
-            "user" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "component" : "text", 
+            "_id" : ObjectId("5dd555c080c434002de2b05e"), 
+            "user" : ObjectId("5db9ed302f37a70027bcbace"), 
+            "component" : "resources", 
             "hidden" : false, 
             "title" : ""
         }
     ], 
-    "__v" : NumberInt(0)
+    "__v" : 0.0
 }
 { 
     "_id" : ObjectId("5db0b92d9f75de0031cc0509"), 
-    "updatedAt" : ISODate("2019-10-23T21:51:33.499+0000"), 
+    "updatedAt" : ISODate("2019-11-20T10:16:18.991+0000"), 
     "createdAt" : ISODate("2019-10-23T20:33:49.508+0000"), 
     "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "name" : "Locating the hacker", 
-    "time" : ISODate("2019-10-22T22:00:00.000+0000"), 
+    "name" : "Finde die Position des Hackers", 
+    "time" : ISODate("2019-11-19T23:00:00.000+0000"), 
     "date" : ISODate("1999-12-31T23:00:00.000+0000"), 
-    "position" : NumberInt(2), 
+    "position" : 2.0, 
     "isCopyFrom" : null, 
-    "hidden" : true, 
+    "hidden" : false, 
     "materialIds" : [
 
     ], 
     "contents" : [
         {
-            "_id" : ObjectId("5db0cb65be760b003157f209"), 
+            "_id" : ObjectId("5dd5127269ad93002b9cc391"), 
             "content" : {
-                "materialId" : "xcdyu8qk"
+                "materialId" : "xgc2pdpn"
             }, 
             "user" : ObjectId("5db0b6b49f75de0031cc0505"), 
             "component" : "geoGebra", 
             "hidden" : false, 
-            "title" : "It is possible to locate the source of the attack!"
+            "title" : "Finde die Position des Hackers!!!!"
+        }, 
+        {
+            "_id" : ObjectId("5dd5127269ad93002b9cc390"), 
+            "content" : {
+                "text" : "<p>Wenn du die Gleichung dort löst, können wir die geografische Position der Hacker bestimmen!📍</p>\r\n\r\n<p>Wenn du das Ergebnis hast, dann komme wieder zurück in dieses Schul-Cloud-Fenster.</p>\r\n\r\n<p> </p>\r\n\r\n<p>Gib die Koordinaten zum vorletzten Laufweg des Hackers in der grünen Gleichung ein:</p>\r\n\r\n<p>a = -1.5</p>\r\n\r\n<p>b = -1</p>\r\n\r\n<p>c = -3</p>\r\n\r\n<p> </p>\r\n\r\n<p>Nun gebe die Koordinaten zum letzten Laufweg des Hackers in der blauen Gleichung ein:</p>\r\n\r\n<p>d = -1</p>\r\n\r\n<p>e = 1</p>\r\n\r\n<p>f = -2</p>\r\n\r\n<p> </p>\r\n"
+            }, 
+            "user" : ObjectId("5db9ed302f37a70027bcbace"), 
+            "component" : "text", 
+            "hidden" : false, 
+            "title" : ""
         }
     ], 
-    "__v" : NumberInt(0)
+    "__v" : 0.0, 
+    "shareToken" : "MGw-oyxK5"
 }
 { 
     "_id" : ObjectId("5db0ba0ebe760b003157f1fa"), 
-    "updatedAt" : ISODate("2019-10-23T21:07:58.906+0000"), 
+    "updatedAt" : ISODate("2019-11-06T12:49:59.854+0000"), 
     "createdAt" : ISODate("2019-10-23T20:37:34.661+0000"), 
     "courseId" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "name" : "Deciphering messages", 
-    "time" : ISODate("2019-10-22T22:00:00.000+0000"), 
+    "name" : "Anleitung zur Entschlüsselung ", 
+    "time" : ISODate("2019-11-05T23:00:00.000+0000"), 
     "date" : ISODate("1999-12-31T23:00:00.000+0000"), 
-    "position" : NumberInt(0), 
+    "position" : 0.0, 
     "isCopyFrom" : null, 
-    "hidden" : true, 
+    "hidden" : false, 
     "materialIds" : [
 
     ], 
     "contents" : [
 
     ], 
-    "__v" : NumberInt(0)
+    "__v" : 0.0
 }

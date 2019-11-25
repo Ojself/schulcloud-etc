@@ -4,21 +4,22 @@
     "federalState" : ObjectId("0000b186816abba584714c53"), 
     "fileStorageType" : "awsS3", 
     "features" : [
-
+        "disableStudentTeamCreation"
     ], 
     "rssFeeds" : [
 
     ], 
+    "currentYear" : ObjectId("5d44380f9bcbc51ddea8820c"), 
     "customYears" : [
 
     ], 
     "pilot" : false, 
     "experimental" : false, 
-    "updatedAt" : ISODate("2019-10-07T12:36:15.736+0000"), 
+    "updatedAt" : ISODate("2019-11-05T18:33:41.062+0000"), 
     "createdAt" : ISODate("2019-10-07T12:36:15.736+0000"), 
     "systems" : [
 
     ], 
     "documentBaseDirType" : "", 
-    "__v" : NumberInt(0)
+    "__v" : 0.0
 }

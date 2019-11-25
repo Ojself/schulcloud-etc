@@ -1,9 +1,296 @@
-[
+{ 
+    "_id" : ObjectId("5dcbff24c6bb140038cd230f"), 
+    "name" : "webcam1.jpg", 
+    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "type" : "image/jpeg", 
+    "size" : 1289867.0, 
+    "storageFileName" : "1573650195889-webcam1.jpg", 
+    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
+    "refOwnerModel" : "course", 
+    "updatedAt" : ISODate("2019-11-13T13:03:32.689+0000"), 
+    "createdAt" : ISODate("2019-11-13T13:03:32.689+0000"), 
+    "permissions" : [
+        {
+            "refPermModel" : "user", 
+            "refId" : ObjectId("5db9ed302f37a70027bcbace"), 
+            "delete" : true, 
+            "create" : true, 
+            "read" : true, 
+            "write" : true
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c99"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : false
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c98"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : true
+        }
+    ], 
+    "securityCheck" : {
+        "updatedAt" : ISODate("2019-11-13T13:03:32.689+0000"), 
+        "createdAt" : ISODate("2019-11-13T13:03:32.689+0000"), 
+        "requestToken" : "76ac8ddc-8077-4d9d-8c7e-54672cd00b64", 
+        "reason" : "not yet scanned", 
+        "status" : "pending"
+    }, 
+    "thumbnailRequestToken" : "64257b77-75bd-4de3-af03-ef47439b05f0", 
+    "isDirectory" : false, 
+    "__v" : 0.0
+}
+{ 
+    "_id" : ObjectId("5dcbff7958377f0038902787"), 
+    "name" : "webcam1.jpg", 
+    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "type" : "image/jpeg", 
+    "size" : 1289867.0, 
+    "storageFileName" : "1573650285500-webcam1.jpg", 
+    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
+    "refOwnerModel" : "course", 
+    "updatedAt" : ISODate("2019-11-13T13:04:57.915+0000"), 
+    "createdAt" : ISODate("2019-11-13T13:04:57.915+0000"), 
+    "permissions" : [
+        {
+            "refPermModel" : "user", 
+            "refId" : ObjectId("5db9ed302f37a70027bcbace"), 
+            "delete" : true, 
+            "create" : true, 
+            "read" : true, 
+            "write" : true
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c99"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : false
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c98"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : true
+        }
+    ], 
+    "securityCheck" : {
+        "updatedAt" : ISODate("2019-11-13T13:04:57.915+0000"), 
+        "createdAt" : ISODate("2019-11-13T13:04:57.915+0000"), 
+        "requestToken" : "18a710ae-e0b7-44a8-a360-3eb3117a5e0a", 
+        "reason" : "not yet scanned", 
+        "status" : "pending"
+    }, 
+    "thumbnailRequestToken" : "321cc691-a767-465f-8a5f-e7692df6e2d5", 
+    "isDirectory" : false, 
+    "__v" : 0.0
+}
+{ 
+    "_id" : ObjectId("5dcbffb281b60a0036e65cdf"), 
+    "name" : "webcam4.jpg", 
+    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "type" : "image/jpeg", 
+    "size" : 1069485.0, 
+    "storageFileName" : "1573650348827-webcam4.jpg", 
+    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
+    "refOwnerModel" : "course", 
+    "updatedAt" : ISODate("2019-11-13T13:05:54.123+0000"), 
+    "createdAt" : ISODate("2019-11-13T13:05:54.123+0000"), 
+    "permissions" : [
+        {
+            "refPermModel" : "user", 
+            "refId" : ObjectId("5db9ed302f37a70027bcbace"), 
+            "delete" : true, 
+            "create" : true, 
+            "read" : true, 
+            "write" : true
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c99"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : false
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c98"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : true
+        }
+    ], 
+    "securityCheck" : {
+        "updatedAt" : ISODate("2019-11-13T13:05:54.123+0000"), 
+        "createdAt" : ISODate("2019-11-13T13:05:54.123+0000"), 
+        "requestToken" : "1d8daacc-5dde-4817-a393-412214ba064c", 
+        "reason" : "not yet scanned", 
+        "status" : "pending"
+    }, 
+    "thumbnailRequestToken" : "901bc6d5-fc3e-4f0d-8caa-68c91d31bcaa", 
+    "isDirectory" : false, 
+    "__v" : 0.0
+}
+{ 
+    "_id" : ObjectId("5dcbffbbc6bb140038cd2311"), 
+    "name" : "webcam3.jpg", 
+    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "type" : "image/jpeg", 
+    "size" : 1035452.0, 
+    "storageFileName" : "1573650348845-webcam3.jpg", 
+    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
+    "refOwnerModel" : "course", 
+    "updatedAt" : ISODate("2019-11-13T13:06:03.104+0000"), 
+    "createdAt" : ISODate("2019-11-13T13:06:03.104+0000"), 
+    "permissions" : [
+        {
+            "refPermModel" : "user", 
+            "refId" : ObjectId("5db9ed302f37a70027bcbace"), 
+            "delete" : true, 
+            "create" : true, 
+            "read" : true, 
+            "write" : true
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c99"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : false
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c98"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : true
+        }
+    ], 
+    "securityCheck" : {
+        "updatedAt" : ISODate("2019-11-13T13:06:03.104+0000"), 
+        "createdAt" : ISODate("2019-11-13T13:06:03.104+0000"), 
+        "requestToken" : "d049c17c-4c7b-4bb8-8f34-8c1344a655f1", 
+        "reason" : "not yet scanned", 
+        "status" : "pending"
+    }, 
+    "thumbnailRequestToken" : "80017dbe-b519-4c44-8a7a-5157ff2d33b6", 
+    "isDirectory" : false, 
+    "__v" : 0.0
+}
+{ 
+    "_id" : ObjectId("5dcbffbd81b60a0036e65ce0"), 
+    "name" : "webcam2.jpg", 
+    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "type" : "image/jpeg", 
+    "size" : 1210724.0, 
+    "storageFileName" : "1573650348823-webcam2.jpg", 
+    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
+    "refOwnerModel" : "course", 
+    "updatedAt" : ISODate("2019-11-13T13:06:05.639+0000"), 
+    "createdAt" : ISODate("2019-11-13T13:06:05.639+0000"), 
+    "permissions" : [
+        {
+            "refPermModel" : "user", 
+            "refId" : ObjectId("5db9ed302f37a70027bcbace"), 
+            "delete" : true, 
+            "create" : true, 
+            "read" : true, 
+            "write" : true
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c99"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : false
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c98"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : true
+        }
+    ], 
+    "securityCheck" : {
+        "updatedAt" : ISODate("2019-11-13T13:06:05.638+0000"), 
+        "createdAt" : ISODate("2019-11-13T13:06:05.638+0000"), 
+        "requestToken" : "38fb4f08-1e54-4b2b-b889-41ce58d0119a", 
+        "reason" : "not yet scanned", 
+        "status" : "pending"
+    }, 
+    "thumbnailRequestToken" : "694a111c-d953-4e9e-83b5-f851c8715c1f", 
+    "isDirectory" : false, 
+    "__v" : 0.0
+}
+{ 
+    "_id" : ObjectId("5dcbffc3c6bb140038cd2313"), 
+    "name" : "webcam5.jpg", 
+    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
+    "type" : "image/jpeg", 
+    "size" : 1170053.0, 
+    "storageFileName" : "1573650349193-webcam5.jpg", 
+    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
+    "refOwnerModel" : "course", 
+    "updatedAt" : ISODate("2019-11-13T13:06:11.469+0000"), 
+    "createdAt" : ISODate("2019-11-13T13:06:11.469+0000"), 
+    "permissions" : [
+        {
+            "refPermModel" : "user", 
+            "refId" : ObjectId("5db9ed302f37a70027bcbace"), 
+            "delete" : true, 
+            "create" : true, 
+            "read" : true, 
+            "write" : true
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c99"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : false
+        }, 
+        {
+            "refPermModel" : "role", 
+            "refId" : ObjectId("0000d186816abba584714c98"), 
+            "delete" : false, 
+            "create" : false, 
+            "read" : true, 
+            "write" : true
+        }
+    ], 
+    "securityCheck" : {
+        "updatedAt" : ISODate("2019-11-13T13:06:11.469+0000"), 
+        "createdAt" : ISODate("2019-11-13T13:06:11.469+0000"), 
+        "requestToken" : "29566b3e-4fe1-4cfa-a7da-a60ab17ba9e6", 
+        "reason" : "not yet scanned", 
+        "status" : "pending"
+    }, 
+    "thumbnailRequestToken" : "9d2b6900-4632-4f12-8c2f-759ddf1fc7cf", 
+    "isDirectory" : false, 
+    "__v" : 0.0
+}
 { 
     "_id" : ObjectId("5dac72b41683f1003261b3a9"), 
     "name" : "Verschlüsselte Nachricht von Cloudy", 
     "type" : "image/png", 
-    "size" : NumberInt(69178), 
+    "size" : 69178.0, 
     "storageFileName" : "1571582643407-Captura de Pantalla 2019-10-20 a la(s) 4.34.08 p. m..png", 
     "thumbnail" : "https://schulcloud.org/images/login-right.png", 
     "owner" : ObjectId("5d9b3196af98270031450074"), 
@@ -30,802 +317,66 @@
     ], 
     "thumbnailRequestToken" : "cbce8a21-41b2-4ca6-b92a-84f1a53c2255", 
     "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac75961683f1003261b3af"), 
-    "name" : "Fotos vom Hacker", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T14:56:22.246+0000"), 
-    "createdAt" : ISODate("2019-10-20T14:56:22.246+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "b7d96d20-a303-4460-9fd1-b450b096c82f", 
-    "isDirectory" : true, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac75a983604a00323bb1de"), 
-    "name" : "Anleitung zur Entschlüsselung", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T14:56:41.169+0000"), 
-    "createdAt" : ISODate("2019-10-20T14:56:41.169+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "85c4e294-f682-4195-8d56-23b895c16d90", 
-    "isDirectory" : true, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac75c4c5b61e003201abd6"), 
-    "name" : "1..png", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "type" : "image/png", 
-    "size" : NumberInt(69178), 
-    "storageFileName" : "1571583427566-Captura de Pantalla 2019-10-20 a la(s) 4.34.08 p. m..png", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "parent" : ObjectId("5dac75a983604a00323bb1de"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T14:57:08.538+0000"), 
-    "createdAt" : ISODate("2019-10-20T14:57:08.538+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c49efb457b1c3c0c7e11"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c545fb457b1c3c0c7e13"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c62bfb457b1c3c0c7e14"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "c837cb56-69b9-4455-b9e5-76de0223d84e", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac75c5c5b61e003201abd7"), 
-    "name" : "2.jpg", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(412682), 
-    "storageFileName" : "1571583427567-2.jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "parent" : ObjectId("5dac75a983604a00323bb1de"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T14:57:09.537+0000"), 
-    "createdAt" : ISODate("2019-10-20T14:57:09.537+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c49efb457b1c3c0c7e11"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c545fb457b1c3c0c7e13"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c62bfb457b1c3c0c7e14"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "875a6ddf-1cec-48b3-9268-7d5b6fa67bc7", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac7975c5b61e003201abd9"), 
-    "name" : "Hacker-Foto 5", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(164911), 
-    "storageFileName" : "1571584372838-Foto el 20-10-19 a la(s) 5.01 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "parent" : ObjectId("5dac75961683f1003261b3af"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T15:12:53.664+0000"), 
-    "createdAt" : ISODate("2019-10-20T15:12:53.664+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c49efb457b1c3c0c7e11"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c545fb457b1c3c0c7e13"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c62bfb457b1c3c0c7e14"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "30eb5df9-e025-4911-8fe9-c883de187568", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac797583604a00323bb1e1"), 
-    "name" : "Hacker-Foto 4", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(152832), 
-    "storageFileName" : "1571584372862-Foto el 20-10-19 a la(s) 5.09 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "parent" : ObjectId("5dac75961683f1003261b3af"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T15:12:53.685+0000"), 
-    "createdAt" : ISODate("2019-10-20T15:12:53.685+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c49efb457b1c3c0c7e11"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c545fb457b1c3c0c7e13"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c62bfb457b1c3c0c7e14"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "bd263ebd-8ad5-45be-8299-c3d13907735f", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac7975c5b61e003201abda"), 
-    "name" : "Hacker-Foto 3", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(155111), 
-    "storageFileName" : "1571584372873-Foto el 20-10-19 a la(s) 5.10 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "parent" : ObjectId("5dac75961683f1003261b3af"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T15:12:53.960+0000"), 
-    "createdAt" : ISODate("2019-10-20T15:12:53.960+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c49efb457b1c3c0c7e11"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c545fb457b1c3c0c7e13"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c62bfb457b1c3c0c7e14"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "1597fc3f-0c46-499f-988a-3dcea98d97b7", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac797583604a00323bb1e2"), 
-    "name" : "Hacker-Foto 2", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(168600), 
-    "storageFileName" : "1571584372810-Foto el 20-10-19 a la(s) 5.08 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "parent" : ObjectId("5dac75961683f1003261b3af"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T15:12:53.991+0000"), 
-    "createdAt" : ISODate("2019-10-20T15:12:53.991+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c49efb457b1c3c0c7e11"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c545fb457b1c3c0c7e13"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c62bfb457b1c3c0c7e14"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "4d489769-24c0-432f-94d2-bc84d18403b7", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5dac797683604a00323bb1e3"), 
-    "name" : "Hacker-Foto 1", 
-    "owner" : ObjectId("5dac53bdb08ea3003103a026"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(145968), 
-    "storageFileName" : "1571584372834-Foto el 20-10-19 a la(s) 5.05 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "parent" : ObjectId("5dac75961683f1003261b3af"), 
-    "refOwnerModel" : "teams", 
-    "updatedAt" : ISODate("2019-10-20T15:12:54.205+0000"), 
-    "createdAt" : ISODate("2019-10-20T15:12:54.205+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5d9b3196af98270031450074"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c190fb457b1c3c0c7e0f"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c391fb457b1c3c0c7e10"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c49efb457b1c3c0c7e11"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c545fb457b1c3c0c7e13"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("5bb5c62bfb457b1c3c0c7e14"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "95533270-b407-48eb-a881-056a1f924e4b", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5db0c414c8324c0032274bd1"), 
-    "name" : "1.jpg", 
-    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(152832), 
-    "storageFileName" : "1571865618238-Foto el 20-10-19 a la(s) 5.09 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "refOwnerModel" : "course", 
-    "updatedAt" : ISODate("2019-10-23T21:20:20.226+0000"), 
-    "createdAt" : ISODate("2019-10-23T21:20:20.226+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c99"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : false
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c98"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "660d0804-4cd5-4545-9865-43de52877354", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0), 
-    "parent" : ObjectId("5db0c4f99f75de0031cc050b")
-},
-{ 
-    "_id" : ObjectId("5db0c414be760b003157f1fd"), 
-    "name" : "2.jpg", 
-    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(155111), 
-    "storageFileName" : "1571865618149-Foto el 20-10-19 a la(s) 5.10 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "refOwnerModel" : "course", 
-    "updatedAt" : ISODate("2019-10-23T21:20:20.226+0000"), 
-    "createdAt" : ISODate("2019-10-23T21:20:20.226+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c99"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : false
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c98"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "a27ba209-3969-47b0-a2a5-2d6acfc026a2", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5db0c416be760b003157f1fe"), 
-    "name" : "3.jpg", 
-    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(145968), 
-    "storageFileName" : "1571865618083-Foto el 20-10-19 a la(s) 5.05 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "refOwnerModel" : "course", 
-    "updatedAt" : ISODate("2019-10-23T21:20:22.308+0000"), 
-    "createdAt" : ISODate("2019-10-23T21:20:22.308+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c99"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : false
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c98"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "d6015c85-f001-414b-bd89-ac45c454c0d0", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5db0c416be760b003157f1ff"), 
-    "name" : "4.jpg", 
-    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(168600), 
-    "storageFileName" : "1571865618134-Foto el 20-10-19 a la(s) 5.08 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "refOwnerModel" : "course", 
-    "updatedAt" : ISODate("2019-10-23T21:20:22.415+0000"), 
-    "createdAt" : ISODate("2019-10-23T21:20:22.415+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c99"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : false
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c98"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "2d5d11da-cce5-44b9-8e0a-d27295292d26", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5db0c416be760b003157f200"), 
-    "name" : "5.jpg", 
-    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(164911), 
-    "storageFileName" : "1571865618216-Foto el 20-10-19 a la(s) 5.01 p. m..jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "refOwnerModel" : "course", 
-    "updatedAt" : ISODate("2019-10-23T21:20:22.638+0000"), 
-    "createdAt" : ISODate("2019-10-23T21:20:22.638+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c99"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : false
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c98"), 
-            "delete" : false, 
-            "create" : false, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "93342e4a-01d7-4412-8480-a03bff11e2ac", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5db0c4f99f75de0031cc050b"), 
-    "name" : "Evidence", 
-    "owner" : ObjectId("5db0b79ebe760b003157f1f5"), 
-    "refOwnerModel" : "course", 
-    "updatedAt" : ISODate("2019-10-23T21:24:09.573+0000"), 
-    "createdAt" : ISODate("2019-10-23T21:24:09.573+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }, 
-        {
-            "refPermModel" : "role", 
-            "refId" : ObjectId("0000d186816abba584714c99"), 
-            "delete" : false, 
-            "create" : true, 
-            "read" : true, 
-            "write" : false
-        }
-    ], 
-    "thumbnailRequestToken" : "3dba1a31-9668-41ff-a806-76181520b186", 
-    "isDirectory" : true, 
-    "__v" : NumberInt(0)
-},
-{ 
-    "_id" : ObjectId("5db1b6e7f8c7870032f76b74"), 
-    "name" : "zum Entschlüsseln", 
-    "type" : "image/jpeg", 
-    "size" : NumberInt(666152), 
-    "storageFileName" : "1571927782435-riddle.jpg", 
-    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
-    "owner" : ObjectId("5db0b6b49f75de0031cc0505"), 
-    "refOwnerModel" : "user", 
-    "updatedAt" : ISODate("2019-10-24T14:36:23.862+0000"), 
-    "createdAt" : ISODate("2019-10-24T14:36:23.862+0000"), 
-    "permissions" : [
-        {
-            "refPermModel" : "user", 
-            "refId" : ObjectId("5db0b6b49f75de0031cc0505"), 
-            "delete" : true, 
-            "create" : true, 
-            "read" : true, 
-            "write" : true
-        }
-    ], 
-    "thumbnailRequestToken" : "3932bea5-c827-4ccb-bee2-bb417c483319", 
-    "isDirectory" : false, 
-    "__v" : NumberInt(0)
+    "__v" : 0.0
 }
-]
+{ 
+    "_id" : ObjectId("5dc2c263c4b99c002c7432c3"), 
+    "name" : "Nachricht entschlüsseln!", 
+    "owner" : ObjectId("5dc2a6c1197966002de9eb30"), 
+    "refOwnerModel" : "user", 
+    "updatedAt" : ISODate("2019-11-06T12:53:55.449+0000"), 
+    "createdAt" : ISODate("2019-11-06T12:53:55.449+0000"), 
+    "permissions" : [
+        {
+            "refPermModel" : "user", 
+            "refId" : ObjectId("5dc2a6c1197966002de9eb30"), 
+            "delete" : true, 
+            "create" : true, 
+            "read" : true, 
+            "write" : true
+        }
+    ], 
+    "securityCheck" : {
+        "updatedAt" : ISODate("2019-11-06T12:53:55.449+0000"), 
+        "createdAt" : ISODate("2019-11-06T12:53:55.449+0000"), 
+        "requestToken" : "b7dc6a2c-4d15-4466-959b-0bb84e57aad2", 
+        "reason" : "not yet scanned", 
+        "status" : "pending"
+    }, 
+    "thumbnailRequestToken" : "9e8cb1f8-51e8-47f3-985b-443f25bda8a0", 
+    "isDirectory" : true, 
+    "__v" : 0.0
+}
+{ 
+    "_id" : ObjectId("5dc2c29298e5cb002b3621dc"), 
+    "name" : "Nachricht entschlüsseln.jpg", 
+    "type" : "image/jpeg", 
+    "size" : 689276.0, 
+    "storageFileName" : "1573044874818-riddle_+nachricht_update.jpg", 
+    "thumbnail" : "https://schulcloud.org/images/login-right.png", 
+    "parent" : ObjectId("5dc2c263c4b99c002c7432c3"), 
+    "owner" : ObjectId("5dc2a6c1197966002de9eb30"), 
+    "refOwnerModel" : "user", 
+    "updatedAt" : ISODate("2019-11-06T12:54:42.562+0000"), 
+    "createdAt" : ISODate("2019-11-06T12:54:42.562+0000"), 
+    "permissions" : [
+        {
+            "refPermModel" : "user", 
+            "refId" : ObjectId("5dc2a6c1197966002de9eb30"), 
+            "delete" : true, 
+            "create" : true, 
+            "read" : true, 
+            "write" : true
+        }
+    ], 
+    "securityCheck" : {
+        "updatedAt" : ISODate("2019-11-06T12:54:42.562+0000"), 
+        "createdAt" : ISODate("2019-11-06T12:54:42.562+0000"), 
+        "requestToken" : "257f2872-6006-4672-ae27-91cfec2463f2", 
+        "reason" : "not yet scanned", 
+        "status" : "pending"
+    }, 
+    "thumbnailRequestToken" : "f7188a27-c6d1-4dbd-83b2-b6e5989a7835", 
+    "isDirectory" : false, 
+    "__v" : 0.0
+}
