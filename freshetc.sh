@@ -16,6 +16,7 @@ mongoimport --uri=$MONGO_URI $SSLVALUE --collection=courses /tmp/seed/schulcloud
 mongoimport --uri=$MONGO_URI $SSLVALUE --collection=files /tmp/seed/schulcloud.files.json
 mongoimport --uri=$MONGO_URI $SSLVALUE --collection=homeworks /tmp/seed/schulcloud.homeworks.json
 mongoimport --uri=$MONGO_URI $SSLVALUE --collection=lessons /tmp/seed/schulcloud.lessons.json
+mongoimport --uri=$MONGO_URI $SSLVALUE --collection=ltitools /tmp/seed/schulcloud.ltitools.json
 mongoimport --uri=$MONGO_URI $SSLVALUE --collection=news /tmp/seed/schulcloud.news.json
 mongoimport --uri=$MONGO_URI $SSLVALUE --collection=schools /tmp/seed/schulcloud.schools.json
 mongoimport --uri=$MONGO_URI $SSLVALUE --collection=submissions /tmp/seed/schulcloud.submissions.json
