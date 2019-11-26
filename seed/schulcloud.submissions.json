@@ -1,6 +1,6 @@
 { 
     "_id" : ObjectId("5d9c7e3b1baad200318dad08"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "studentId" : ObjectId("5d9b3196af98270031450074"), 
     "homeworkId" : ObjectId("5d9c7d31c085e4003158158d"), 
     "comment" : "<p>enterthecloud</p>\r\n", 
@@ -20,7 +20,7 @@
 }
 { 
     "_id" : ObjectId("5dac72ca83604a00323bb1da"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "studentId" : ObjectId("5d9b3196af98270031450074"), 
     "homeworkId" : ObjectId("5da6e1cdf901a5003178b8cf"), 
     "comment" : "<p>Be quick ;)</p>\r\n", 
@@ -40,7 +40,7 @@
 }
 { 
     "_id" : ObjectId("5db05959c8324c0032274b3e"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "studentId" : ObjectId("5d9b3196af98270031450074"), 
     "homeworkId" : ObjectId("5da6e1b376af2c00352e9f90"), 
     "comment" : "", 
@@ -60,7 +60,7 @@
 }
 { 
     "_id" : ObjectId("5db05f1fbe760b003157f134"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "studentId" : ObjectId("5d9b3196af98270031450074"), 
     "homeworkId" : ObjectId("5dac7b58c5b61e003201abdc"), 
     "comment" : "", 
@@ -80,7 +80,7 @@
 }
 { 
     "_id" : ObjectId("5db064499f75de0031cc044a"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "studentId" : ObjectId("5d9b3196af98270031450074"), 
     "homeworkId" : ObjectId("5db02101c8324c0032274aad"), 
     "comment" : "", 

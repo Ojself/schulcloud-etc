@@ -13,3 +13,18 @@
         "dateOfTermsOfUseConsent" : ISODate("2019-10-07T12:45:58.609+0000")
     }
 }
+{ 
+    "_id" : ObjectId("5d9b3197f66b7f0032be7550"), 
+    "userId" : ObjectId("5dc2a6c1197966002de9eb30"), 
+    "__v" : 0.0, 
+    "parentConsents" : [
+
+    ], 
+    "userConsent" : {
+        "form" : "digital", 
+        "privacyConsent" : true, 
+        "termsOfUseConsent" : true, 
+        "dateOfPrivacyConsent" : ISODate("2019-10-07T12:45:58.609+0000"), 
+        "dateOfTermsOfUseConsent" : ISODate("2019-10-07T12:45:58.609+0000")
+    }
+}

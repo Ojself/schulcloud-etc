@@ -1,6 +1,6 @@
 { 
     "_id" : ObjectId("5da6e1b376af2c00352e9f90"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5d9b3196af98270031450074"), 
     "name" : "Woher kommt der Angriff? ", 
     "description" : "<p>Wir müssen herausfinden, von wo aus der Hacker agiert. Dadurch können wir seine Identität aufdecken und den Hacker schnappen!</p>\r\n", 
@@ -21,7 +21,7 @@
 }
 { 
     "_id" : ObjectId("5da6e1cdf901a5003178b8cf"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5d9b3196af98270031450074"), 
     "name" : "Was ist das Motiv? ", 
     "description" : "<p>Welche Absichten verfolgt der Hacker?</p>\r\n", 
@@ -42,7 +42,7 @@
 }
 { 
     "_id" : ObjectId("5dac734483604a00323bb1db"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5d9b3196af98270031450074"), 
     "name" : "Entschlüssle eine kodierte Nachricht", 
     "description" : "<p>Wenn du es bis hier hin geschafft hast, dann machst du bereits sehr guten Fortschritt!</p>\r\n", 
@@ -63,7 +63,7 @@
 }
 { 
     "_id" : ObjectId("5dac7b58c5b61e003201abdc"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5d9b3196af98270031450074"), 
     "name" : "Lerne die HPI Schul-Cloud kennen", 
     "description" : "<p>Setze dich mit den Funktionen der HPI Schul-Cloud auseinander</p>\r\n", 
@@ -84,7 +84,7 @@
 }
 { 
     "_id" : ObjectId("5db02101c8324c0032274aad"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5d9b3196af98270031450074"), 
     "name" : "Nächste Schritte", 
     "description" : "<p><strong>Achtung! </strong></p>\r\n\r\n<p><strong>Wir bemerken gerade auffällige Aktivitäten in der Schulcloud. </strong></p>\r\n\r\n<p><strong>Geht nun zum Bereich “Neuigkeiten” um die Sache weiter zu verfolgen.</strong></p>\r\n", 
@@ -104,7 +104,7 @@
 }
 { 
     "_id" : ObjectId("5dbc36cea604a7003257b68e"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5dbb63292f37a70027bcbbad"), 
     "name" : "Mathe is KACKE ABER FRAU KÄCKEBROT IST DIE BESTE ", 
     "description" : "<p>1+1=3</p>\r\n\r\n<p> </p>\r\n\r\n<p> </p>\r\n", 
@@ -125,7 +125,7 @@
 }
 { 
     "_id" : ObjectId("5dbc38c67cb9850028c8a273"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5dbb63292f37a70027bcbbad"), 
     "name" : "Wie gehts euch schreibe es mal unten rein!", 
     "description" : "<p>Ich mag Züge</p>\r\n\r\n<p>Ich hab angst vorm Autistus Diversus</p>\r\n", 
@@ -146,7 +146,7 @@
 }
 { 
     "_id" : ObjectId("5dbc38f3208a120027d0849f"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5dbb63292f37a70027bcbbad"), 
     "name" : "Geschichte", 
     "description" : "<p>+++EINMELDUNG+++</p>\r\n\r\n<p>Neue Spezies Entdeckt:</p>\r\n\r\n<p>Austistus Diversus</p>\r\n", 
@@ -165,7 +165,7 @@
 }
 { 
     "_id" : ObjectId("5dbc39347cb9850028c8a274"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5dbb63292f37a70027bcbbad"), 
     "name" : "VIRUS INSALLED", 
     "description" : "<p>!!!ACHTUNG VIRUS!!!</p>\r\n", 
@@ -184,7 +184,7 @@
 }
 { 
     "_id" : ObjectId("5dbc3964208a120027d084a0"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5dbb63292f37a70027bcbbad"), 
     "name" : "angie liebt herr karlsen ", 
     "description" : "<p>a+k=Liebe</p>\r\n", 
@@ -203,7 +203,7 @@
 }
 { 
     "_id" : ObjectId("5dbc398a208a120027d084a1"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5dbb63292f37a70027bcbbad"), 
     "name" : "LULULULUSA", 
     "description" : "", 
@@ -222,7 +222,7 @@
 }
 { 
     "_id" : ObjectId("5dcd43d4fcf55900382dd0c2"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherId" : ObjectId("5db9ed302f37a70027bcbace"), 
     "name" : "Nächste Schritte", 
     "description" : "<p><strong>Achtung! </strong></p>\r\n\r\n<p><strong>Ich bemerke gerade auffällige Aktivitäten in der Schulcloud. </strong></p>\r\n\r\n<p><strong>Gehe bitte zum Bereich “Neuigkeiten” um die Sache weiter zu verfolgen.</strong></p>\r\n", 

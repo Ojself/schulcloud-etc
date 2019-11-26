@@ -2,7 +2,7 @@
     "_id" : ObjectId("5db0a8cec8324c0032274bc8"), 
     "name" : "Schul Cloud Game", 
     "year" : ObjectId("5d44380f9bcbc51ddea8820c"), 
-    "schoolId" : ObjectId("5d9b313faf98270031450073"), 
+    "schoolId" : ObjectId("0000013faf98270031450073"), 
     "teacherIds" : [
         ObjectId("5db0b6b49f75de0031cc0505"), 
         ObjectId("5db9ed302f37a70027bcbace")
